@@ -1,0 +1,14 @@
+.title{
+    color:#007891;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+.desc{
+    color:#999;
+}
+
+.wrapper{
+    width:80vw;
+    margin:0 auto;
+}

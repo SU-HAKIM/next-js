@@ -1,0 +1,17 @@
+.notFound{
+    width:100vw;
+    height:100vh;
+    position:absolute;
+    top:0;
+    display:grid;
+    place-content: center;
+}
+.backToHome{
+    padding:10px 20px;
+    background: #fff;
+    color:#aafb98;
+    border:2px solid #56fb98;
+    border-radius: 5px;
+    margin:10px 0px;
+    text-align:center;
+}
